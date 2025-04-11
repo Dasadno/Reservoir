@@ -101,6 +101,7 @@ void Reservoir::Serialize()
 		<< ",\nReservoir type: " << GetReservoirType() << ",\nWidth: " << GetWidth() << ",\n"
 		<< "Perimetr: " << Perimetr() << "\n\n\n";
 	}
+	out.close();
 }
 
 void Reservoir::GetInfo()

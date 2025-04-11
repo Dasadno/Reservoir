@@ -130,8 +130,8 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Reservoir.cpp" />
     <ClCompile Include="ReservoirEnum.cpp" />
-    <ClCompile Include="RiverUI.cpp" />
-    <ClCompile Include="RiverUI.hpp" />
+    <ClCompile Include="ReservoirUI.cpp" />
+    <ClCompile Include="ReservoirUI.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Reservoir.hpp" />
